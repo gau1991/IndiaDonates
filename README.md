@@ -1,4 +1,4 @@
 IndiaDonates
 ============
 
-IndiaDonates Android Application
+IndiaDonates Android Application.
